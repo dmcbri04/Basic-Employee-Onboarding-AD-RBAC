@@ -1,0 +1,43 @@
+Active Directory OU and Security Group Lab
+
+Domain name: NMG.com
+
+OUs created:
+- Finance
+- HR
+- IT
+- Operations
+
+Security groups created:
+- Finance-Users
+- HR-Users
+- IT-Users
+- Operations-Users
+
+Purpose of each OU:
+
+Finance:
+Organizes directory objects for employees responsible for
+budgeting, accounting, financial reporting, and payments.
+
+HR:
+Organizes directory objects for employees responsible for
+recruitment, employee records, benefits, and personnel support.
+
+IT:
+Organizes directory objects for employees responsible for
+technical support, systems, networks, and cybersecurity.
+
+Operations:
+Organizes directory objects for employees responsible for
+daily business activities, service delivery, and operational
+coordination.
+
+Verification:
+- Finance OU contains Finance-Users.
+- HR OU contains HR-Users.
+- IT OU contains IT-Users.
+- Operations OU contains Operations-Users.
+- All four groups are configured as Security groups.
+
+Date completed: October 14, 2026
