@@ -1,0 +1,96 @@
+USER LIST DOCUMENTATION
+Northstar Medical Group - Day 3
+
+REVIEW NOTE: Usernames, departments, and group assignments follow the supplied RBAC assignment. UPNs are proposed using username@NMG.com, inferred from the assignment domain DC=NMG,DC=com; actual account UPNs have not been verified. Job titles are suggested fictional lab titles, not verified account attributes. Confirm UPNs, titles, and group memberships against your Day 3 lab before submitting.
+
+1. Username: dchen
+   UPN: dchen@NMG.com
+   Department: Finance
+   Job Title: Financial Analyst
+   Group Assignment: Finance-Users
+
+2. Username: kmills
+   UPN: kmills@NMG.com
+   Department: Finance
+   Job Title: Accountant
+   Group Assignment: Finance-Users
+
+3. Username: rhayes
+   UPN: rhayes@NMG.com
+   Department: Finance
+   Job Title: Payroll Specialist
+   Group Assignment: Finance-Users
+
+4. Username: lpark
+   UPN: lpark@NMG.com
+   Department: Finance
+   Job Title: Finance Manager
+   Group Assignment: Finance-Users
+
+5. Username: storres
+   UPN: storres@NMG.com
+   Department: HR
+   Job Title: HR Specialist
+   Group Assignment: HR-Users
+
+6. Username: jwhitfield
+   UPN: jwhitfield@NMG.com
+   Department: HR
+   Job Title: Recruiter
+   Group Assignment: HR-Users
+
+7. Username: mgrant
+   UPN: mgrant@NMG.com
+   Department: HR
+   Job Title: Benefits Coordinator
+   Group Assignment: HR-Users
+
+8. Username: jcooper
+   UPN: jcooper@NMG.com
+   Department: HR
+   Job Title: HR Manager
+   Group Assignment: HR-Users
+
+9. Username: mjohnson
+   UPN: mjohnson@NMG.com
+   Department: IT
+   Job Title: Systems Administrator
+   Group Assignment: IT-Users
+
+10. Username: ppatel
+   UPN: ppatel@NMG.com
+   Department: IT
+   Job Title: Network Administrator
+   Group Assignment: IT-Users
+
+11. Username: tbrooks
+   UPN: tbrooks@NMG.com
+   Department: IT
+   Job Title: Service Desk Technician
+   Group Assignment: IT-Users
+
+12. Username: acoleman
+   UPN: acoleman@NMG.com
+   Department: IT
+   Job Title: IT Manager
+   Group Assignment: IT-Users
+
+13. Username: bfoster
+   UPN: bfoster@NMG.com
+   Department: Operations
+   Job Title: Facilities Coordinator
+   Group Assignment: Operations-Users
+
+14. Username: crivera
+   UPN: crivera@NMG.com
+   Department: Operations
+   Job Title: Scheduling Coordinator
+   Group Assignment: Operations-Users
+
+15. Username: nross
+   UPN: nross@NMG.com
+   Department: Operations
+   Job Title: Logistics Coordinator
+   Group Assignment: Operations-Users
+
+Total users: 15
