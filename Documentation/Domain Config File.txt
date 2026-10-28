@@ -1,0 +1,6 @@
+Active Directory Lab Completion
+
+Domain Name: NMG
+Domain Controller: NMG-DC01
+Static IPv4 address: 172.20.10.5
+Date completed: October 13, 2026
