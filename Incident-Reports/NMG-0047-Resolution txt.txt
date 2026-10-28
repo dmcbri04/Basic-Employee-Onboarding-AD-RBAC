@@ -1,0 +1,19 @@
+Ticket number: NMG-0047
+
+Affected user: Jane Cooper (jcooper@NMG.com)
+
+Issue reported:
+Jane reported that she could not access HR shared resources and that her desktop policies and mapped drives differed from those of her HR teammates.
+
+Root cause:
+During the investigation, I identified two account configuration issues. Jane’s account was located in the Operations Users organizational unit (OU) instead of the HR OU. Her account also belonged to the Operations-Users group and was missing the required HR-Users group membership. These settings did not match her role as an HR Payroll Specialist.
+
+Fix applied:
+Moved Jane’s account from the Operations Users OU to the HR OU. Removed her account from the incorrect Operations-Users group and added it to the HR-Users group to align her account configuration with her department and job responsibilities.
+
+Verification:
+Confirmed in Active Directory Users and Computers that Jane’s account (jcooper) appeared in the HR OU. Reviewed the account’s Member Of tab and confirmed that HR-Users was listed and Operations-Users was no longer listed. Also opened the HR-Users group and confirmed that Jane appeared in its member list. Captured screenshots documenting the corrected OU placement and group membership.
+
+Date resolved: October 19, 2026
+
+Resolved by: IT New Hire
